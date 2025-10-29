@@ -21,11 +21,5 @@ Para tal precisa-se explorar seus fundamentos matemáticos.
   de criptografia RSA, onde a mensagem é elevada à potência do expoente público, módulo "n".
 
   Quanto a descriptografia utiliza-se a equação M = C^d (mod n). A segurança vem do fato que, conhecemos apenas "n" e "e", é computacionalmente inviável descobrir "d" porque exigiria fatorar "n" em "p" e "q", algo extremamente difícil quando "n" tem centenas ou milhares de bits. 
-  
 
-  
-
-
-
-
-
+_OBS: O código está na Branch Master_
